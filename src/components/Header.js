@@ -18,11 +18,51 @@ function Header() {
       <div className="logo">The Hyderabad Royale</div>
       <nav className={`nav ${isOpen ? 'open' : ''}`}>
         <ul>
-          <li><NavLink exact to="/" activeClassName="active" onClick={closeMenu}>Home</NavLink></li>
-          <li><NavLink to="/menu" activeClassName="active" onClick={closeMenu}>Our Menu</NavLink></li>
-          <li><NavLink to="/about" activeClassName="active" onClick={closeMenu}>About Us</NavLink></li>
-          <li><NavLink to="/gallery" activeClassName="active" onClick={closeMenu}>Gallery</NavLink></li>
-          <li><NavLink to="/contact" activeClassName="active" onClick={closeMenu}>Contact</NavLink></li>
+          <li>
+            <NavLink
+              to="/"
+              className={({ isActive }) => (isActive ? 'active' : '')}
+              onClick={closeMenu}
+            >
+              Home
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              to="/menu"
+              className={({ isActive }) => (isActive ? 'active' : '')}
+              onClick={closeMenu}
+            >
+              Our Menu
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              to="/about"
+              className={({ isActive }) => (isActive ? 'active' : '')}
+              onClick={closeMenu}
+            >
+              About Us
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              to="/gallery"
+              className={({ isActive }) => (isActive ? 'active' : '')}
+              onClick={closeMenu}
+            >
+              Gallery
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              to="/contact"
+              className={({ isActive }) => (isActive ? 'active' : '')}
+              onClick={closeMenu}
+            >
+              Contact
+            </NavLink>
+          </li>
         </ul>
       </nav>
       <div className={`burger ${isOpen ? 'open' : ''}`} onClick={toggleMenu}>
