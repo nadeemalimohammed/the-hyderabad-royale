@@ -1,0 +1,98 @@
+.menu {
+  padding: 30px;
+}
+
+.menu h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.menu-section {
+  margin-bottom: 40px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.menu-section h2 {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.menu-row {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.menu-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 30%;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.menu-card img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+.menu-card-content {
+  padding: 15px;
+}
+
+.menu-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu-card-header h3 {
+  margin: 0;
+}
+
+.menu-card-header p {
+  margin: 0;
+  font-weight: bold;
+}
+
+.menu-card-details {
+  margin-top: 10px;
+  text-align: start;
+}
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #2a2325;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  font-size: 24px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease;
+}
+
+.scroll-to-top:hover {
+  background-color: #d1af6d;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+  .menu-card {
+    width: 45%;
+  }
+}
+
+@media (max-width: 480px) {
+  .menu-card {
+    width: 100%;
+  }
+}
