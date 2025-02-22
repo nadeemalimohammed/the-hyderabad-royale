@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/the-hyderabad-royale/static/css/main.b028e905.css",
+    "main.js": "/the-hyderabad-royale/static/js/main.8624b653.js",
+    "static/js/488.55f17d82.chunk.js": "/the-hyderabad-royale/static/js/488.55f17d82.chunk.js",
+    "static/media/logo.png": "/the-hyderabad-royale/static/media/logo.a7424f0161e26201a611.png",
+    "static/media/beef-kabab.jpg": "/the-hyderabad-royale/static/media/beef-kabab.a31677355718d65d381b.jpg",
+    "static/media/nihari.jpg": "/the-hyderabad-royale/static/media/nihari.cf573d6874776b8ec1c5.jpg",
+    "static/media/khatti-daal.jpg": "/the-hyderabad-royale/static/media/khatti-daal.7c6b0b715d305ee9a2a9.jpg",
+    "static/media/chicken-biryani.jpg": "/the-hyderabad-royale/static/media/chicken-biryani.7edbef96a6be8b0e5d85.jpg",
+    "static/media/chicken-tikka-kabab.jpg": "/the-hyderabad-royale/static/media/chicken-tikka-kabab.d1b50c78eae48981b439.jpg",
+    "static/media/qubani-ka-meetha.jpg": "/the-hyderabad-royale/static/media/qubani-ka-meetha.6fff2c3d4266e84476c0.jpg",
+    "static/media/marag.jpg": "/the-hyderabad-royale/static/media/marag.aadd94eb866588277087.jpg",
+    "static/media/prawn-biryani.jpg": "/the-hyderabad-royale/static/media/prawn-biryani.5063a3c50363c1b925c7.jpg",
+    "static/media/shahi-mutton-biryani.jpg": "/the-hyderabad-royale/static/media/shahi-mutton-biryani.183bc2b8521b08090454.jpg",
+    "static/media/background image.jpg": "/the-hyderabad-royale/static/media/background image.d24ff2402c68bc69da6c.jpg",
+    "static/media/restaurant-img4.jpg": "/the-hyderabad-royale/static/media/restaurant-img4.69dca73894228f0ca0d7.jpg",
+    "static/media/charminar.jpg": "/the-hyderabad-royale/static/media/charminar.73bec9c1d4cde11f4bee.jpg",
+    "static/media/badam-milk.jpg": "/the-hyderabad-royale/static/media/badam-milk.2d6b7ae91d0c397d92a4.jpg",
+    "static/media/gulab-ka-sharbat.jpg": "/the-hyderabad-royale/static/media/gulab-ka-sharbat.265b9e2311b23981bf87.jpg",
+    "static/media/murgh-malai-kebab.jpg": "/the-hyderabad-royale/static/media/murgh-malai-kebab.ceff9b9d7cd36b48df53.jpg",
+    "static/media/shahi-tukda.jpg": "/the-hyderabad-royale/static/media/shahi-tukda.06c4e4898fa27f72ce7c.jpg",
+    "static/media/mutton-khorma.jpg": "/the-hyderabad-royale/static/media/mutton-khorma.91987e38d13c5afd3eaa.jpg",
+    "static/media/restaurant-img3.jpg": "/the-hyderabad-royale/static/media/restaurant-img3.99ac92a91d8e07fc4729.jpg",
+    "static/media/awards-3.jpg": "/the-hyderabad-royale/static/media/awards-3.e555cb6c73e8c725302b.jpg",
+    "static/media/restaurant-img2.jpg": "/the-hyderabad-royale/static/media/restaurant-img2.d8f31879a9d97a76fb04.jpg",
+    "static/media/vegetable-biryani.jpg": "/the-hyderabad-royale/static/media/vegetable-biryani.21cca4d1e2d08a33784a.jpg",
+    "static/media/restaurant-img1.jpg": "/the-hyderabad-royale/static/media/restaurant-img1.2571729c4ae032cf8016.jpg",
+    "static/media/mirchi-ka-salan.jpg": "/the-hyderabad-royale/static/media/mirchi-ka-salan.78c9077a45a04e3c16c0.jpg",
+    "static/media/awards-4.jpg": "/the-hyderabad-royale/static/media/awards-4.42344678bd7906ea9f2a.jpg",
+    "static/media/awards-2.jpg": "/the-hyderabad-royale/static/media/awards-2.30ad4a60640c496ce52b.jpg",
+    "index.html": "/the-hyderabad-royale/index.html",
+    "main.b028e905.css.map": "/the-hyderabad-royale/static/css/main.b028e905.css.map",
+    "main.8624b653.js.map": "/the-hyderabad-royale/static/js/main.8624b653.js.map",
+    "488.55f17d82.chunk.js.map": "/the-hyderabad-royale/static/js/488.55f17d82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b028e905.css",
+    "static/js/main.8624b653.js"
+  ]
+}
