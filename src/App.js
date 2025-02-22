@@ -11,7 +11,7 @@ import "./styles/App.css";
 
 function App() {
   return (
-    <Router basename="/the-hyderabad-royale"> {/* Set basename here */}
+    <Router basename="/the-hyderabad-royale">
       <div className="app">
         {/* Header */}
         <Header />
